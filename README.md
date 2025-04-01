@@ -1,6 +1,9 @@
 # 👚 Super Duper
 소개 사이트: [https://www.skttechacademy.com/nonmember/flyAi/flyAiProjectReviewDetail]
 
+# 📺 Prototype 디자인
+- [https://www.figma.com/design/X2d8HP3Aguo0iIeg76886H/Smart-TV-(%EA%B3%B5%EC%9C%A0%EC%9A%A9)?node-id=0-1&t=F8I0A5JxhHvdLC4f-1]
+
 # 🚀 Backend 사용 방법 (README.md)
 
 ## **🔹 0. FE & BE 연동 테스트 (Frontend & Backend Integration Test)**
