@@ -1,3 +1,6 @@
+# 👚 Super Duper
+소개 사이트: [https://www.skttechacademy.com/nonmember/flyAi/flyAiProjectReviewDetail]
+
 # 🚀 Backend 사용 방법 (README.md)
 
 ## **🔹 0. FE & BE 연동 테스트 (Frontend & Backend Integration Test)**
